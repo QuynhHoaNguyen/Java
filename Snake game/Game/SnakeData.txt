@@ -1,0 +1,3 @@
+#Mon Apr 27 23:35:45 ICT 2020
+highScore=19
+playerName=Qu\u1EF3nh Hoa
